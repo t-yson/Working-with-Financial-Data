@@ -42,6 +42,9 @@ How to Use:
 4) Adjust the start and end dates to select your desired historical data period.
 5) Run the script to download the data, calculate statistics, and generate visualizations.
 
+<img width="2832" height="1536" alt="image" src="https://github.com/user-attachments/assets/1ee07ee3-66f7-4774-8b7a-b9284e84d466" />
+
+
 Learning Objectives:
 
 This project provides a starting point for learning how to work with financial market data in Python. It covers data retrieval, basic financial calculations, statistical analysis, and financial visualization.
